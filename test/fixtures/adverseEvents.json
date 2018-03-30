@@ -1,0 +1,5252 @@
+[
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":2,
+      "safetyReportId":"4723089-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004220463US"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":3,
+      "safetyReportId":"4719690-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0515241A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":4,
+      "safetyReportId":"4723050-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004217335US"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":5,
+      "safetyReportId":"4729138-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0513474A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":6,
+      "safetyReportId":"4545301-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040568176"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":7,
+      "safetyReportId":"4464955-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0506385A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":8,
+      "safetyReportId":"4348970-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":9,
+      "safetyReportId":"4410344-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040500113"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":10,
+      "safetyReportId":"4406693-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040406146"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":11,
+      "safetyReportId":"7552222-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004JP05314"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":12,
+      "safetyReportId":"7552246-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004JP08286"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":13,
+      "safetyReportId":"5265192-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW11222"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":14,
+      "safetyReportId":"5265568-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW07407"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":15,
+      "safetyReportId":"4506058-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040502573"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":16,
+      "safetyReportId":"4499018-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040668898"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":17,
+      "safetyReportId":"4517301-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"SU-2004-002482"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":18,
+      "safetyReportId":"4509385-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040608077"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":19,
+      "safetyReportId":"4531155-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0406USA02708"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":20,
+      "safetyReportId":"4469853-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040605121"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":21,
+      "safetyReportId":"7924553-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHY2004CO005070"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":22,
+      "safetyReportId":"7552170-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004JP06952"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":23,
+      "safetyReportId":"7528566-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004CA06795"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":24,
+      "safetyReportId":"7526935-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004CA07257"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":25,
+      "safetyReportId":"4397326-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"JP-GLAXOSMITHKLINE-B0335959A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":26,
+      "safetyReportId":"4406206-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0510715A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":27,
+      "safetyReportId":"4415898-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0510396A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":28,
+      "safetyReportId":"4486238-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04040465"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":29,
+      "safetyReportId":"4483263-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04060054(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":30,
+      "safetyReportId":"4428967-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0517514A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":31,
+      "safetyReportId":"7539176-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHFR2004GB01305"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":32,
+      "safetyReportId":"7528574-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004CA07253"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":33,
+      "safetyReportId":"7533328-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHFR2004GB02052"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":34,
+      "safetyReportId":"7528606-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004NZ08491"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":35,
+      "safetyReportId":"7543773-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004JP09131"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":36,
+      "safetyReportId":"4453809-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0405USA00391"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":37,
+      "safetyReportId":"4436438-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12586178"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":38,
+      "safetyReportId":"4468514-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040601893"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":39,
+      "safetyReportId":"4468521-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040600076"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":40,
+      "safetyReportId":"4468653-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040505600"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":41,
+      "safetyReportId":"7528568-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004CA06956"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":42,
+      "safetyReportId":"7543774-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004JP08617"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":43,
+      "safetyReportId":"5073785-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-AMGEN-KDL080644"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":44,
+      "safetyReportId":"5037818-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"CA-BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.-2005-CN-00130CN"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":45,
+      "safetyReportId":"5016727-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0574496A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":46,
+      "safetyReportId":"5022737-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"CA-BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.-2005-CN-00218CN"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":47,
+      "safetyReportId":"5267897-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW06602"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":48,
+      "safetyReportId":"5265237-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW11393"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":49,
+      "safetyReportId":"4552388-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0506789A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":50,
+      "safetyReportId":"4593306-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12563391"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":51,
+      "safetyReportId":"6875304-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-PFIZER INC-2004219769US"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":52,
+      "safetyReportId":"5084039-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"NL-BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.-2004-NL-00063NL"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":53,
+      "safetyReportId":"5268745-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW08949"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":54,
+      "safetyReportId":"5275680-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW06776"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":55,
+      "safetyReportId":"5265593-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW08310"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":56,
+      "safetyReportId":"5268748-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW08943"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":57,
+      "safetyReportId":"5265275-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW13408"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":58,
+      "safetyReportId":"6342476-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"JP-ROCHE-369684"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":59,
+      "safetyReportId":"6011861-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-ASTRAZENECA-2008UW19969"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":60,
+      "safetyReportId":"5524093-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.-2007-BP-23714BP"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":61,
+      "safetyReportId":"8406427-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"JP-2012-13296"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":62,
+      "safetyReportId":"7543726-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004JP06749"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":63,
+      "safetyReportId":"7526979-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004CA07197"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":64,
+      "safetyReportId":"7958233-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-ROCHE-1018804"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":65,
+      "safetyReportId":"7528577-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004CA05481"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":66,
+      "safetyReportId":"4470333-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-00010"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":67,
+      "safetyReportId":"4473446-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040607716"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":68,
+      "safetyReportId":"4482642-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04060381"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":69,
+      "safetyReportId":"4514596-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US072988"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":70,
+      "safetyReportId":"4393026-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"AT-GLAXOSMITHKLINE-B0337448A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":71,
+      "safetyReportId":"7988635-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHY2004VE005206"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":72,
+      "safetyReportId":"4342340-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-SHR-03-013107"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":73,
+      "safetyReportId":"4387446-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":74,
+      "safetyReportId":"4356752-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"JP_040403028"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":75,
+      "safetyReportId":"4363124-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":76,
+      "safetyReportId":"4409273-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040502629"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":77,
+      "safetyReportId":"4408965-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040500332"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":78,
+      "safetyReportId":"4403850-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040403071"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":79,
+      "safetyReportId":"4417695-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA031253555"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":80,
+      "safetyReportId":"4381902-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"200410176BFR"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":81,
+      "safetyReportId":"7528562-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004NZ07792"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":82,
+      "safetyReportId":"7528579-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004CA05833"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":83,
+      "safetyReportId":"7549385-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHHO2004JP08013"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":84,
+      "safetyReportId":"5265230-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW11716"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":85,
+      "safetyReportId":"5263848-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW13080"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":86,
+      "safetyReportId":"5268754-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW10583"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":87,
+      "safetyReportId":"5263719-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW11664"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":88,
+      "safetyReportId":"5281304-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW09957"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":89,
+      "safetyReportId":"5265772-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW11970"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":90,
+      "safetyReportId":"5281306-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW12622"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":91,
+      "safetyReportId":"8409550-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"JP-2012-12656"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":92,
+      "safetyReportId":"4468478-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040601217"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":93,
+      "safetyReportId":"4468649-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040505585"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":94,
+      "safetyReportId":"4470344-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040701156"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":95,
+      "safetyReportId":"4394873-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004AC00159"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":96,
+      "safetyReportId":"4394354-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004220915US"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":97,
+      "safetyReportId":"4403131-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0510912A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":98,
+      "safetyReportId":"4473526-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040605652"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":99,
+      "safetyReportId":"4487494-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04040569(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":100,
+      "safetyReportId":"4501235-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US_0405103307"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":101,
+      "safetyReportId":"4408988-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040504103"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":102,
+      "safetyReportId":"4403962-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040402156"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":103,
+      "safetyReportId":"4406778-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040405843"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":104,
+      "safetyReportId":"4409200-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040503670"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":105,
+      "safetyReportId":"4409224-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040503541"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":106,
+      "safetyReportId":"4409228-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040503569"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":107,
+      "safetyReportId":"4408132-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040404335"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":108,
+      "safetyReportId":"4408847-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040404466"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":109,
+      "safetyReportId":"4409403-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040502910"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":110,
+      "safetyReportId":"4345450-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-FF-00244FF"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":111,
+      "safetyReportId":"4534837-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12567103"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":112,
+      "safetyReportId":"4498246-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040669725"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":113,
+      "safetyReportId":"4516365-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0513617A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":114,
+      "safetyReportId":"4515735-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA-2004-0015639"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":115,
+      "safetyReportId":"4517291-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"SU-2004-002467"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":116,
+      "safetyReportId":"4517287-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"SU-2004-002449"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":117,
+      "safetyReportId":"4552501-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0514647A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":118,
+      "safetyReportId":"4593303-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12563011"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":119,
+      "safetyReportId":"4593317-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12569166"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":120,
+      "safetyReportId":"4594520-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0507544A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":121,
+      "safetyReportId":"4469878-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040603108"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":122,
+      "safetyReportId":"4473217-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040606471"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":123,
+      "safetyReportId":"4497229-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040671009"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":124,
+      "safetyReportId":"4497212-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040668882"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":125,
+      "safetyReportId":"4488913-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04040297"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":126,
+      "safetyReportId":"4498043-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040669194"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":127,
+      "safetyReportId":"4436991-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0509664A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":128,
+      "safetyReportId":"4422724-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHEH2004US05700"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":129,
+      "safetyReportId":"4442300-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW06578"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":130,
+      "safetyReportId":"4442656-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW09905"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":131,
+      "safetyReportId":"4470345-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040701158"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":132,
+      "safetyReportId":"4473040-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040606059"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":133,
+      "safetyReportId":"4441574-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040567154"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":134,
+      "safetyReportId":"4451161-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-BP-04585BP (0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":135,
+      "safetyReportId":"4457600-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"FROV000209"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":136,
+      "safetyReportId":"4464601-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040605039"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":137,
+      "safetyReportId":"4440951-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040464651"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":138,
+      "safetyReportId":"4440958-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040464541"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":139,
+      "safetyReportId":"4497213-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040668888"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":140,
+      "safetyReportId":"4483091-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04060273"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":141,
+      "safetyReportId":"4593327-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12573002"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":142,
+      "safetyReportId":"4593426-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12626529"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":143,
+      "safetyReportId":"4557457-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2005-CN-00131CN"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":144,
+      "safetyReportId":"4594531-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0509127A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":145,
+      "safetyReportId":"4594571-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0512397A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":146,
+      "safetyReportId":"4557367-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2005-CN-00047CN"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":147,
+      "safetyReportId":"4560980-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12573929"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":148,
+      "safetyReportId":"4564624-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"SGB1-2004-00485"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":149,
+      "safetyReportId":"4729125-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0513032A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":150,
+      "safetyReportId":"4485205-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12583019"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":151,
+      "safetyReportId":"5520178-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.-2007-BP-23709BP"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":152,
+      "safetyReportId":"4468545-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040600441"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":153,
+      "safetyReportId":"4468600-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040601022"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":154,
+      "safetyReportId":"4470688-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040700177"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":155,
+      "safetyReportId":"4392459-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW04489"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":156,
+      "safetyReportId":"4393163-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW07436"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":157,
+      "safetyReportId":"4473628-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040567685"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":158,
+      "safetyReportId":"4487520-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04040566"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":159,
+      "safetyReportId":"4397747-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-BP-05084BP"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":160,
+      "safetyReportId":"4398787-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040670633"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":161,
+      "safetyReportId":"4394946-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"NO-GLAXOSMITHKLINE-B0337695A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":162,
+      "safetyReportId":"4391939-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040669891"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":163,
+      "safetyReportId":"4436472-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12595500"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":164,
+      "safetyReportId":"4445500-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004211665US"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":165,
+      "safetyReportId":"4441180-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US_0405102838"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":166,
+      "safetyReportId":"4441039-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"236501"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":167,
+      "safetyReportId":"4392990-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW08120"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":168,
+      "safetyReportId":"4394411-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"200412147JP"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":169,
+      "safetyReportId":"4403121-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0510481A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":170,
+      "safetyReportId":"4400733-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-BP-04732BR(1)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":171,
+      "safetyReportId":"4333176-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":172,
+      "safetyReportId":"4374932-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12604989"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":173,
+      "safetyReportId":"4370750-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-BP-03801BP"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":174,
+      "safetyReportId":"4374013-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"EWC040539215"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":175,
+      "safetyReportId":"4342808-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":176,
+      "safetyReportId":"4342276-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW07165"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":177,
+      "safetyReportId":"4345889-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":178,
+      "safetyReportId":"4350449-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"20040400280"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":179,
+      "safetyReportId":"4355465-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-MERCK-0404USA02582"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":180,
+      "safetyReportId":"4380182-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0404USA02533"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":181,
+      "safetyReportId":"5265579-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW07924"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":182,
+      "safetyReportId":"5268765-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW10176"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":183,
+      "safetyReportId":"5263743-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW10975"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":184,
+      "safetyReportId":"5277480-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW11490"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":185,
+      "safetyReportId":"5267898-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW07484"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":186,
+      "safetyReportId":"5265248-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW12717"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":187,
+      "safetyReportId":"4482396-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12550000"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":188,
+      "safetyReportId":"4509384-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040608075"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":189,
+      "safetyReportId":"4527812-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"ATO-04-0535(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":190,
+      "safetyReportId":"4464983-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"370324"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":191,
+      "safetyReportId":"4483132-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04060130(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":192,
+      "safetyReportId":"4483141-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04060140(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":193,
+      "safetyReportId":"4482624-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04060469"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":194,
+      "safetyReportId":"4484375-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04040123(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":195,
+      "safetyReportId":"4482137-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04050450(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":196,
+      "safetyReportId":"4498887-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040670801"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":197,
+      "safetyReportId":"4514604-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US076334"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":198,
+      "safetyReportId":"4411646-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"DL2004115"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":199,
+      "safetyReportId":"4395967-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004220952IT"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":200,
+      "safetyReportId":"4406164-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0509212A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":201,
+      "safetyReportId":"4347193-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"GBS040414693"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":202,
+      "safetyReportId":"4353505-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-MERCK-0404USA02557"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":203,
+      "safetyReportId":"4351222-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US_0404102216"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":204,
+      "safetyReportId":"4417201-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US_0404102224"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":205,
+      "safetyReportId":"4373356-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW11153"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":206,
+      "safetyReportId":"4371126-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04050679"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":207,
+      "safetyReportId":"4357719-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"AU-GLAXOSMITHKLINE-B0331771A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":208,
+      "safetyReportId":"4354563-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":209,
+      "safetyReportId":"4355881-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":210,
+      "safetyReportId":"4355205-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004PK00741"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":211,
+      "safetyReportId":"4552402-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0508946A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":212,
+      "safetyReportId":"4593278-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12554705"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":213,
+      "safetyReportId":"4593310-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12565669"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":214,
+      "safetyReportId":"4434739-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12622775"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":215,
+      "safetyReportId":"4398947-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040670772"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":216,
+      "safetyReportId":"4406205-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0510682A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":217,
+      "safetyReportId":"4406212-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0511241A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":218,
+      "safetyReportId":"4442651-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW09923"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":219,
+      "safetyReportId":"4438620-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040566696"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":220,
+      "safetyReportId":"4438622-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040566707"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":221,
+      "safetyReportId":"4440936-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040464682"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":222,
+      "safetyReportId":"4443309-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040568102"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":223,
+      "safetyReportId":"4443342-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040567951"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":224,
+      "safetyReportId":"4441220-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040466106"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":225,
+      "safetyReportId":"4441232-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040466129"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":226,
+      "safetyReportId":"4457757-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"FABR-10635"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":227,
+      "safetyReportId":"4453946-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"200418735BWH"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":228,
+      "safetyReportId":"4450511-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"206897"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":229,
+      "safetyReportId":"4464606-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040605087"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":230,
+      "safetyReportId":"4450607-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-BP-05029BP(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":231,
+      "safetyReportId":"4503996-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040671433"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":232,
+      "safetyReportId":"4422725-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHEH2004US05713"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":233,
+      "safetyReportId":"4439326-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040465983"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":234,
+      "safetyReportId":"4487026-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04040231"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":235,
+      "safetyReportId":"4336532-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":236,
+      "safetyReportId":"4350649-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"A02200401306"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":237,
+      "safetyReportId":"4366717-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"FR-MERCK-0405FRA00031"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":238,
+      "safetyReportId":"4369320-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040567411"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":239,
+      "safetyReportId":"4371761-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":240,
+      "safetyReportId":"4374633-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0513447A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":241,
+      "safetyReportId":"4515685-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA-2004-0015443"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":242,
+      "safetyReportId":"4519468-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"KDL077423"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":243,
+      "safetyReportId":"4534888-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12618831"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":244,
+      "safetyReportId":"4504113-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-ABBOTT-04P-163-0264759-00"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":245,
+      "safetyReportId":"4511137-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHEH2004US06899"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":246,
+      "safetyReportId":"4517289-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"SU-2004-002450"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":247,
+      "safetyReportId":"4465003-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0513807A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":248,
+      "safetyReportId":"4731422-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHFR2004GB04769"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":249,
+      "safetyReportId":"4719645-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0512445A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":250,
+      "safetyReportId":"4719701-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0515582A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":251,
+      "safetyReportId":"4398906-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US_0406103833"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":252,
+      "safetyReportId":"4436560-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12624193"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":253,
+      "safetyReportId":"4438135-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0512418A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":254,
+      "safetyReportId":"4423592-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"M04-INT-068"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":255,
+      "safetyReportId":"4436440-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12586525"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":256,
+      "safetyReportId":"4409594-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHBS2004BR05805"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":257,
+      "safetyReportId":"4396276-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-BP-04966MX"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":258,
+      "safetyReportId":"4440931-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040464274"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":259,
+      "safetyReportId":"4443295-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040568013"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":260,
+      "safetyReportId":"4440960-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040464560"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":261,
+      "safetyReportId":"4396272-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-BP-03999AU"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":262,
+      "safetyReportId":"4421108-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"368653"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":263,
+      "safetyReportId":"4434713-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12592440"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":264,
+      "safetyReportId":"4434727-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12612438"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":265,
+      "safetyReportId":"4423673-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"HQWYE897914MAY04"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":266,
+      "safetyReportId":"4428954-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0513970A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":267,
+      "safetyReportId":"4425705-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-04-2050"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":268,
+      "safetyReportId":"4438034-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0510212A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":269,
+      "safetyReportId":"4441143-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040567895"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":270,
+      "safetyReportId":"4463611-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040506203"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":271,
+      "safetyReportId":"4380174-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"M04-341-141"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":272,
+      "safetyReportId":"4381450-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":273,
+      "safetyReportId":"4381313-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":274,
+      "safetyReportId":"4387651-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0512421A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":275,
+      "safetyReportId":"4409272-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040502627"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":276,
+      "safetyReportId":"4408929-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040500379"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":277,
+      "safetyReportId":"4417151-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA-2004-0015018"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":278,
+      "safetyReportId":"4406927-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040405576"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":279,
+      "safetyReportId":"4398902-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US_0406103832"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":280,
+      "safetyReportId":"4399341-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US_0407104094"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":281,
+      "safetyReportId":"4393091-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW07169"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":282,
+      "safetyReportId":"4393136-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW07204"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":283,
+      "safetyReportId":"4391624-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040669730"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":284,
+      "safetyReportId":"4403160-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0511913A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":285,
+      "safetyReportId":"4398933-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US_0406103839"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":286,
+      "safetyReportId":"4406060-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0506236A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":287,
+      "safetyReportId":"4406156-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0508939A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":288,
+      "safetyReportId":"4411639-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"DL2004110"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":289,
+      "safetyReportId":"4436475-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12595914"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":290,
+      "safetyReportId":"4436570-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12628186"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":291,
+      "safetyReportId":"4394438-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2000487"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":292,
+      "safetyReportId":"4421268-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"SU-2004-002283"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":293,
+      "safetyReportId":"4391820-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW08902"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":294,
+      "safetyReportId":"4393087-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW07190"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":295,
+      "safetyReportId":"4442799-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW10451"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":296,
+      "safetyReportId":"4443134-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW13207"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":297,
+      "safetyReportId":"4442801-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW12033"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":298,
+      "safetyReportId":"4443054-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW11373"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":299,
+      "safetyReportId":"4501704-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040361727"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":300,
+      "safetyReportId":"4441505-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040567256"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":301,
+      "safetyReportId":"4356660-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004211497DE"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":302,
+      "safetyReportId":"4378779-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US_0405102937"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":303,
+      "safetyReportId":"4385607-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"200411399DE"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":304,
+      "safetyReportId":"4387410-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0508078A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":305,
+      "safetyReportId":"4387605-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0511267A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":306,
+      "safetyReportId":"4384247-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004215083US"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":307,
+      "safetyReportId":"4389701-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"04H-163-0263831-00"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":308,
+      "safetyReportId":"4388844-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004041525"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":309,
+      "safetyReportId":"4401744-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040403466"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":310,
+      "safetyReportId":"4407022-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040404969"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":311,
+      "safetyReportId":"4441012-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040464932"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":312,
+      "safetyReportId":"4440925-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040464220"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":313,
+      "safetyReportId":"4442933-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040567599"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":314,
+      "safetyReportId":"4441218-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040466101"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":315,
+      "safetyReportId":"4409400-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040502889"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":316,
+      "safetyReportId":"4455412-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"206830"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":317,
+      "safetyReportId":"4454267-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0406USA01903"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":318,
+      "safetyReportId":"4458003-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040400704"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":319,
+      "safetyReportId":"4464599-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040605016"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":320,
+      "safetyReportId":"4464605-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040605075"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":321,
+      "safetyReportId":"4488933-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04040308"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":322,
+      "safetyReportId":"4455939-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"207540"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":323,
+      "safetyReportId":"4454260-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0406USA00627"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":324,
+      "safetyReportId":"4454277-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0406USA01657"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":325,
+      "safetyReportId":"4463560-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20031005527"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":326,
+      "safetyReportId":"4464593-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040604976"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":327,
+      "safetyReportId":"4464489-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040603747"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":328,
+      "safetyReportId":"4464293-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040602154"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":329,
+      "safetyReportId":"4464067-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040603439"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":330,
+      "safetyReportId":"4472131-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"A03200402116"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":331,
+      "safetyReportId":"4359305-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHNU2004DE01823"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":332,
+      "safetyReportId":"4359373-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHBS2004CA06077"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":333,
+      "safetyReportId":"4358406-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":334,
+      "safetyReportId":"4361266-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"200413361US"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":335,
+      "safetyReportId":"4374300-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"200417578BWH"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":336,
+      "safetyReportId":"4383680-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"ES-GLAXOSMITHKLINE-B0336310A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":337,
+      "safetyReportId":"4367931-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHNR2004AU00980"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":338,
+      "safetyReportId":"4358151-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"GB-JNJFOC-20040406138"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":339,
+      "safetyReportId":"4359479-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04040040"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":340,
+      "safetyReportId":"4387302-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0506301A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":341,
+      "safetyReportId":"4719715-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0516239A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":342,
+      "safetyReportId":"4668653-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0509171A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":343,
+      "safetyReportId":"4673778-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"10052882-C608091-1"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":344,
+      "safetyReportId":"4714183-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0402USA00531"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":345,
+      "safetyReportId":"4654828-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0515723A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":346,
+      "safetyReportId":"4625407-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"CIP04001148"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":347,
+      "safetyReportId":"4719662-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0513805A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":348,
+      "safetyReportId":"4507235-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040600797"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":349,
+      "safetyReportId":"4597314-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0507256A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":350,
+      "safetyReportId":"4345773-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"JP-JNJFOC-20040303534"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":351,
+      "safetyReportId":"4450772-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-BP-04014BP(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":352,
+      "safetyReportId":"4457711-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"FROV000200"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":353,
+      "safetyReportId":"4464522-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040603358"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":354,
+      "safetyReportId":"4464305-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040603980"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":355,
+      "safetyReportId":"4463820-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040505796"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":356,
+      "safetyReportId":"4467592-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040505076"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":357,
+      "safetyReportId":"4482418-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04050398"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":358,
+      "safetyReportId":"4483235-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04060635"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":359,
+      "safetyReportId":"4483219-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04060314"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":360,
+      "safetyReportId":"4436402-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12578621"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":361,
+      "safetyReportId":"4464384-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040604802"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":362,
+      "safetyReportId":"4453898-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0404USA02374"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":363,
+      "safetyReportId":"4454294-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0406USA00611"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":364,
+      "safetyReportId":"4463589-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040506294"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":365,
+      "safetyReportId":"4482529-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04050513"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":366,
+      "safetyReportId":"4473294-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040607228"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":367,
+      "safetyReportId":"4473302-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040607266"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":368,
+      "safetyReportId":"4487516-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04040531"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":369,
+      "safetyReportId":"4498263-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040669843"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":370,
+      "safetyReportId":"4394250-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004211369US"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":371,
+      "safetyReportId":"4393942-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004220491VE"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":372,
+      "safetyReportId":"4442016-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW11661"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":373,
+      "safetyReportId":"4442361-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW09327"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":374,
+      "safetyReportId":"4442747-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW12414"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":375,
+      "safetyReportId":"4443137-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW13164"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":376,
+      "safetyReportId":"4422711-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHEH2004US06323"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":377,
+      "safetyReportId":"4439354-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040465941"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":378,
+      "safetyReportId":"4442790-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW10472"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":379,
+      "safetyReportId":"4442705-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW10244"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":380,
+      "safetyReportId":"4443259-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040567480"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":381,
+      "safetyReportId":"4438051-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0510530A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":382,
+      "safetyReportId":"4438107-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0511741A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":383,
+      "safetyReportId":"4438114-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0511917A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":384,
+      "safetyReportId":"4486320-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04050147"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":385,
+      "safetyReportId":"4456363-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"200416565BWH"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":386,
+      "safetyReportId":"4468134-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040505377"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":387,
+      "safetyReportId":"4464442-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040604382"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":388,
+      "safetyReportId":"4467535-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040600765"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":389,
+      "safetyReportId":"4483071-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04050527 (0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":390,
+      "safetyReportId":"4483051-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04050314"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":391,
+      "safetyReportId":"4440971-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040464502"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":392,
+      "safetyReportId":"4406196-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0510470A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":393,
+      "safetyReportId":"4406210-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0511031A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":394,
+      "safetyReportId":"4406218-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0511474A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":395,
+      "safetyReportId":"4401751-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040671285"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":396,
+      "safetyReportId":"4431036-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12587440"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":397,
+      "safetyReportId":"4470358-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040701302"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":398,
+      "safetyReportId":"4473207-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040606460"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":399,
+      "safetyReportId":"4473512-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040605599"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":400,
+      "safetyReportId":"4409939-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"DE-GLAXOSMITHKLINE-D0043950A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":401,
+      "safetyReportId":"4409222-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040503538"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":402,
+      "safetyReportId":"4406546-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040501119"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":403,
+      "safetyReportId":"4409411-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040502942"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":404,
+      "safetyReportId":"4422679-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHEH2004US06464"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":405,
+      "safetyReportId":"4441382-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040566986"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":406,
+      "safetyReportId":"4442912-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US_0405103051"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":407,
+      "safetyReportId":"4440922-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040465705"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":408,
+      "safetyReportId":"4441316-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040466370"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":409,
+      "safetyReportId":"4393619-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHBS2004BR08078"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":410,
+      "safetyReportId":"4394950-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"NO-GLAXOSMITHKLINE-B0337744A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":411,
+      "safetyReportId":"4464284-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040602101"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":412,
+      "safetyReportId":"4464287-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040602128"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":413,
+      "safetyReportId":"4467158-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040601953"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":414,
+      "safetyReportId":"4436436-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12585535"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":415,
+      "safetyReportId":"4483068-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04050308 (0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":416,
+      "safetyReportId":"4441422-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040466157"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":417,
+      "safetyReportId":"4438591-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040362338"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":418,
+      "safetyReportId":"4440913-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040465611"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":419,
+      "safetyReportId":"4441223-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040463857"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":420,
+      "safetyReportId":"4448061-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHEH2004US05614"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":421,
+      "safetyReportId":"4487044-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04040049"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":422,
+      "safetyReportId":"4483267-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04060060(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":423,
+      "safetyReportId":"4454543-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0405USA01063"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":424,
+      "safetyReportId":"4455211-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"206324"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":425,
+      "safetyReportId":"4455220-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"206132"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":426,
+      "safetyReportId":"4473272-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040606772"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":427,
+      "safetyReportId":"4473483-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"A03200401796"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":428,
+      "safetyReportId":"4497065-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040568389"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":429,
+      "safetyReportId":"4485246-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04050592"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":430,
+      "safetyReportId":"4482937-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04070085(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":431,
+      "safetyReportId":"4384120-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004038111"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":432,
+      "safetyReportId":"4368304-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHEH2004US05588"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":433,
+      "safetyReportId":"4370198-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12558672"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":434,
+      "safetyReportId":"4370689-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHEH2004US05941"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":435,
+      "safetyReportId":"4381182-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"02100-JPN-04-0134"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":436,
+      "safetyReportId":"4389815-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"B0335837A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":437,
+      "safetyReportId":"4473202-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040606240"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":438,
+      "safetyReportId":"4473211-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040606466"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":439,
+      "safetyReportId":"4394907-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004042402"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":440,
+      "safetyReportId":"4395172-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-06-1907"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":441,
+      "safetyReportId":"4347742-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":442,
+      "safetyReportId":"4351254-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":443,
+      "safetyReportId":"4350971-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004CG00699"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":444,
+      "safetyReportId":"4336491-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":445,
+      "safetyReportId":"4384108-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04050306"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":446,
+      "safetyReportId":"4368345-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"SE-JNJFOC-20040502689"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":447,
+      "safetyReportId":"4369353-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040567009"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":448,
+      "safetyReportId":"4374319-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"unknown"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":449,
+      "safetyReportId":"4377912-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHEH2004US06091"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":450,
+      "safetyReportId":"4347654-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW07442"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":451,
+      "safetyReportId":"4457052-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"207378"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":452,
+      "safetyReportId":"4455993-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"206659"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":453,
+      "safetyReportId":"4442870-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW10973"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":454,
+      "safetyReportId":"4442779-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW12114"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":455,
+      "safetyReportId":"4483057-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"163-20785-04050329"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":456,
+      "safetyReportId":"4441312-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040466366"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":457,
+      "safetyReportId":"4441233-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040466132"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":458,
+      "safetyReportId":"4463637-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040506036"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":459,
+      "safetyReportId":"4463623-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040506221"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":460,
+      "safetyReportId":"4464073-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040603441"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":461,
+      "safetyReportId":"4406168-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0509242A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":462,
+      "safetyReportId":"4398254-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"TNZFR200400081"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":463,
+      "safetyReportId":"4436498-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12601092"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":464,
+      "safetyReportId":"4454112-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0405USA00528"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":465,
+      "safetyReportId":"4450778-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004-BP-04100BP(0)"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":466,
+      "safetyReportId":"4463563-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20031102922"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":467,
+      "safetyReportId":"4459543-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004214073US"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":468,
+      "safetyReportId":"4902864-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PE-2005-BP-02247PB"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":469,
+      "safetyReportId":"4729159-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0514309A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":470,
+      "safetyReportId":"5268767-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW10175"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":471,
+      "safetyReportId":"4594550-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0510499A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":472,
+      "safetyReportId":"4594502-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0505596A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":473,
+      "safetyReportId":"4410202-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040502508"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":474,
+      "safetyReportId":"4408949-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040503811"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":475,
+      "safetyReportId":"4410159-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040504303"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":476,
+      "safetyReportId":"4416821-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA-2004-0015195"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":477,
+      "safetyReportId":"4416408-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA-2004-0014573"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":478,
+      "safetyReportId":"4416289-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA-2004-0015040"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":479,
+      "safetyReportId":"4350985-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004CG00700"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":480,
+      "safetyReportId":"4350876-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004025661"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":481,
+      "safetyReportId":"4498689-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040670708"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":482,
+      "safetyReportId":"4499188-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040669172"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":483,
+      "safetyReportId":"4495928-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040568384"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":484,
+      "safetyReportId":"4391622-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040669860"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":485,
+      "safetyReportId":"4392363-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004220886US"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":486,
+      "safetyReportId":"4429628-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHEH2004US06765"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":487,
+      "safetyReportId":"4400008-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"207632"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":488,
+      "safetyReportId":"4411798-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"200414480US"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":489,
+      "safetyReportId":"4442354-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW09035"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":490,
+      "safetyReportId":"4443070-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW11510"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":491,
+      "safetyReportId":"4456448-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"206586"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":492,
+      "safetyReportId":"4464176-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040505737"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":493,
+      "safetyReportId":"4470675-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040608380"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":494,
+      "safetyReportId":"4472375-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040608244"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":495,
+      "safetyReportId":"4411561-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"DL2004138"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":496,
+      "safetyReportId":"4388745-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"CA-GLAXOSMITHKLINE-A0516712A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":497,
+      "safetyReportId":"4436420-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12583068"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":498,
+      "safetyReportId":"4438092-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0511403A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":499,
+      "safetyReportId":"4438108-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0511763A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":500,
+      "safetyReportId":"4438162-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0513466A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":501,
+      "safetyReportId":"4394275-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"BIVUS040036"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":502,
+      "safetyReportId":"4395510-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW13487"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":503,
+      "safetyReportId":"4403665-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"JP-ROCHE-372378"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":504,
+      "safetyReportId":"4398874-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040670537"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":505,
+      "safetyReportId":"4435228-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"JP-GLAXOSMITHKLINE-B0335352A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":506,
+      "safetyReportId":"4393166-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW07401"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":507,
+      "safetyReportId":"4393076-1",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW07052"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":508,
+      "safetyReportId":"4454821-X",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"WAES 0406USA01360"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":509,
+      "safetyReportId":"4455218-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"206081"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":510,
+      "safetyReportId":"4469869-9",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040603072"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":511,
+      "safetyReportId":"4442979-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040567666"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":512,
+      "safetyReportId":"4453779-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"200418432BWH"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":513,
+      "safetyReportId":"4453579-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"200417945BWH"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":514,
+      "safetyReportId":"4463559-4",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20041002723"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":515,
+      "safetyReportId":"4464425-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040602234"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":516,
+      "safetyReportId":"4464488-2",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-JNJFOC-20040603746"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":517,
+      "safetyReportId":"4436510-0",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-BRISTOL-MYERS SQUIBB COMPANY-12607347"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":518,
+      "safetyReportId":"4429515-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"ENT 2004-0132"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":519,
+      "safetyReportId":"4399033-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"04P-163-0264975-00"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":520,
+      "safetyReportId":"4406180-6",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0510131A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":521,
+      "safetyReportId":"4498760-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"USA040670474"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":522,
+      "safetyReportId":"4388733-7",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"US-GLAXOSMITHKLINE-A0516444A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":523,
+      "safetyReportId":"4389435-3",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHBS2004JP08393"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":524,
+      "safetyReportId":"4421009-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"JP-GLAXOSMITHKLINE-B0337103A"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":525,
+      "safetyReportId":"4392669-5",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"PHBS2004JP08583"
+    }
+  },
+  {
+    "model":"adverseEvents",
+    "data":{
+      "id":526,
+      "safetyReportId":"4392158-8",
+      "receiveDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "receiptDate":"Thu Mar 29 2018 16:29:25 GMT-0400 (Eastern Daylight Time)",
+      "companyNumb":"2004UW06167"
+    }
+  }
+]
